@@ -1,15 +1,3 @@
->>> Nombres:
-
-> Nicolás Olivos Muñoz  Rol: 202073507-7  Paralelo: 201
-
-> Diego Morales Arellano Rol: 202073511-5  Paralelo: 201
-
->>> Nombres de archivos:
-
-> T2SO.c : Tarea con el codigo de busqueda de palabras de sopa de letras sin optimizar
-
-> Makefile: Archivo tipo make para la compilacion
-
 >>> Instrucciones Generales:
 
 Para que el codigo pueda ser utilizado correctamente se debe tener en cuenta lo siguiente:
