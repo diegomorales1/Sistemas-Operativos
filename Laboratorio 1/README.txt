@@ -1,19 +1,3 @@
-Nombres:
-
-Nicolás Olivos Muñoz  Rol: 202073507-7  Paralelo: 201
-
-Diego Morales Arellano Rol: 202073511-5  Paralelo: 201
-
-Nombres de archivos:
-
-T1SO.c : Tarea con el codigo de busqueda de palabras de sopa de letras sin optimizar
-
-T1optimo.c : Tarea con el codigo de busqueda de palabras de sopa de letras optimizado
-
-Makefile: Archivo tipo make para la compilacion de ambos codigos
-
-Informe_SO_L1: Informe con preguntas y analisis del laboratorio 1
-
 Instrucciones Generales:
 
 Para que el codigo pueda ser utilizado correctamente se debe tener en cuenta lo siguiente:
